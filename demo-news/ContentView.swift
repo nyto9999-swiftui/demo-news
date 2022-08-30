@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  demo-news
-//
-//  Created by 宇宣 Chen on 2022/8/30.
-//
-
 import SwiftUI
 
 struct ContentView: View {
